@@ -1,8 +1,10 @@
-# Hi, I'm Sylvia
+<p align="center">
+  <img src="assets/banner.png" alt="Cloudy sky with a bird in flight" width="100%" />
+</p>
 
-**Game Developer | Gameplay Programmer | Engine Programmer**
+## About Me
 
-I'm a game development graduate student specialising in software development, with a focus on gameplay systems, engine-level features, and interactive experiences that turn technical ideas into polished, playable games.
+I'm a game development graduate student specializing in software development, with a focus on gameplay systems, engine-level features, and interactive experiences that turn technical ideas into polished, playable games.
 
 
 ## Featured Projects 

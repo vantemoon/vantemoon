@@ -24,9 +24,15 @@ A 2D endless runner focused on simple controls and fast-paced movement.
 
 ![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-333333?style=flat&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-333333?style=flat&logo=unrealengine&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-333333?style=flat&logo=gamemaker&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-333333?style=flat&logo=opengl&logoColor=white)
+![DirectX](https://img.shields.io/badge/DirectX-333333?style=flat&logo=directx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=white)
+![Perforce](https://img.shields.io/badge/Perforce-333333?style=flat&logo=perforce&logoColor=white)
 
 **Gameplay Programming · Game Engine Development · Tools Programming · Interactive Systems**
 
